@@ -3,4 +3,4 @@ Una experiencia matematica juego interactivo que pone aprueba tus conocimientos 
 
 
 
-Integrqantes:Joel hidalgo,Joseph peña,Justyn canto,Miguel cervantes 
+Integrantes:Joel hidalgo,Joseph peña,Justyn canto,Miguel cervantes 
